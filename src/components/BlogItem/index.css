@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.head {
+  font-size: 20px;
+}
+.dates {
+  color: #9aa5b1;
+}
